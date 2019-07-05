@@ -22,7 +22,7 @@ defmodule Rumbrella.Mixfile do
   # and cannot be accessed from applications inside the apps folder
   defp deps do
     [
-      {:sweet_xml, "~>0.5.0"}
+      {:sweet_xml, "~> 0.6.6"}
     ]
   end
 end
